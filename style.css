@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.justifyend:hover{
+
+     color: blue;
+}
+.lists ul{
+   color: orange;
+   position: absolute;
+   top: 100px;
+   font-size: x-large;
+   margin: 30px;
+    
+}
+.main{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+.main li{
+    margin: 20px;
+}
+footer h4{
+    left: 100px;
+}
